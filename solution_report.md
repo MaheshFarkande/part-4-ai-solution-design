@@ -1,4 +1,4 @@
-# AI Solution Design Report: Product Image Search & Similarity Matching
+# AI Solution Design Report: 
 
 ## Task 1: Choose a Business Domain
 **Selected Domain:** Retail
